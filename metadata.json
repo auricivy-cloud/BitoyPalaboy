@@ -1,0 +1,6 @@
+{
+  "name": "Apex POS & Small Business Analytics",
+  "description": "High-performance point-of-sale register with 5 core business KPIs, dynamic date range filtering, inventory management, and thermal receipt printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
